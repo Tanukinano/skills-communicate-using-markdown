@@ -8,3 +8,8 @@ Otra vez
 const text = "esto es un texto de prueba"
 
 ```
+
+
+- [x] Paso 1 
+- [ ] Paso 2
+- [ ] Paso 3
